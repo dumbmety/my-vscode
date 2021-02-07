@@ -37,8 +37,5 @@
       "prettier.arrowParens": "avoid",
       "prettier.semi": false,
       "prettier.singleQuote": true,
-      "prettier.trailingComma": "none",
-      "yaml.schemas": {
-        "file:///c%3A/Users/Mehdi/.vscode/extensions/atlassian.atlascode-2.8.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
-      }
+      "prettier.trailingComma": "none"
     }
