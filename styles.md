@@ -6,4 +6,4 @@
 | 2   | One Dark Pro   | JetBrains Mono | VSCode Icons Mac    |
 | 3   | GitHub Theme   | Roboto Mono    | Material Icon Theme |
 | 4   | Monokai Pro    | Hack           | Monokai Pro Icons   |
-| 5   | Tokyo Night    | JetBrains Mono | Monokai Pro Icons   |
+| 5   | Tokyo Night    | Meslo LG S     | Material Icon Theme |
